@@ -18,39 +18,39 @@ function Footer() {
               </svg>
             </div>
             <div>
-              <h3 className="text-2xl font-bold bg-gradient-to-r from-yellow-400 to-orange-500 bg-clip-text text-transparent">Linkbee Corp.</h3>
+              <h3 className="text-2xl font-bold bg-gradient-to-r from-yellow-400 to-orange-500 bg-clip-text text-transparent">TodoDin.</h3>
             </div>
           </div>
-          <p className="text-gray-400 text-sm leading-relaxed">IT Software Company yang berfokus pada solusi digital inovatif untuk bisnis modern.</p>
+          <p className="text-gray-400 text-sm leading-relaxed">Perusahaan Perangkat Lunak IT yang fokus pada solusi digital inovatif untuk bisnis modern.</p>
         </aside>
 
         <nav className="space-y-4">
-          <h6 className="text-lg font-bold text-yellow-400 mb-4">Services</h6>
-          <a className="block text-gray-400 hover:text-yellow-400 transition-colors duration-200 hover:translate-x-1 transform cursor-pointer">→ Branding</a>
-          <a className="block text-gray-400 hover:text-yellow-400 transition-colors duration-200 hover:translate-x-1 transform cursor-pointer">→ Design</a>
-          <a className="block text-gray-400 hover:text-yellow-400 transition-colors duration-200 hover:translate-x-1 transform cursor-pointer">→ Marketing</a>
-          <a className="block text-gray-400 hover:text-yellow-400 transition-colors duration-200 hover:translate-x-1 transform cursor-pointer">→ Advertisement</a>
+          <h6 className="text-lg font-bold text-yellow-400 mb-4">Layanan</h6>
+          <a className="block text-gray-400 hover:text-yellow-400 transition-colors duration-200 hover:translate-x-1 transform cursor-pointer">→ Pencitraan Merek</a>
+          <a className="block text-gray-400 hover:text-yellow-400 transition-colors duration-200 hover:translate-x-1 transform cursor-pointer">→ Desain</a>
+          <a className="block text-gray-400 hover:text-yellow-400 transition-colors duration-200 hover:translate-x-1 transform cursor-pointer">→ Pemasaran</a>
+          <a className="block text-gray-400 hover:text-yellow-400 transition-colors duration-200 hover:translate-x-1 transform cursor-pointer">→ Iklan</a>
         </nav>
 
         <nav className="space-y-4">
-          <h6 className="text-lg font-bold text-yellow-400 mb-4">Company</h6>
-          <a className="block text-gray-400 hover:text-yellow-400 transition-colors duration-200 hover:translate-x-1 transform cursor-pointer">→ About us</a>
-          <a className="block text-gray-400 hover:text-yellow-400 transition-colors duration-200 hover:translate-x-1 transform cursor-pointer">→ Contact</a>
-          <a className="block text-gray-400 hover:text-yellow-400 transition-colors duration-200 hover:translate-x-1 transform cursor-pointer">→ Jobs</a>
-          <a className="block text-gray-400 hover:text-yellow-400 transition-colors duration-200 hover:translate-x-1 transform cursor-pointer">→ Press kit</a>
+          <h6 className="text-lg font-bold text-yellow-400 mb-4">Perusahaan</h6>
+          <a className="block text-gray-400 hover:text-yellow-400 transition-colors duration-200 hover:translate-x-1 transform cursor-pointer">→ Tentang kami</a>
+          <a className="block text-gray-400 hover:text-yellow-400 transition-colors duration-200 hover:translate-x-1 transform cursor-pointer">→ Kontak</a>
+          <a className="block text-gray-400 hover:text-yellow-400 transition-colors duration-200 hover:translate-x-1 transform cursor-pointer">→ Pekerjaan</a>
+          <a className="block text-gray-400 hover:text-yellow-400 transition-colors duration-200 hover:translate-x-1 transform cursor-pointer">→ Paket pers</a>
         </nav>
 
         <nav className="space-y-4">
           <h6 className="text-lg font-bold text-yellow-400 mb-4">Legal</h6>
-          <a className="block text-gray-400 hover:text-yellow-400 transition-colors duration-200 hover:translate-x-1 transform cursor-pointer">→ Terms of use</a>
-          <a className="block text-gray-400 hover:text-yellow-400 transition-colors duration-200 hover:translate-x-1 transform cursor-pointer">→ Privacy policy</a>
-          <a className="block text-gray-400 hover:text-yellow-400 transition-colors duration-200 hover:translate-x-1 transform cursor-pointer">→ Cookie policy</a>
+          <a className="block text-gray-400 hover:text-yellow-400 transition-colors duration-200 hover:translate-x-1 transform cursor-pointer">→ Syarat penggunaan</a>
+          <a className="block text-gray-400 hover:text-yellow-400 transition-colors duration-200 hover:translate-x-1 transform cursor-pointer">→ Kebijakan privasi</a>
+          <a className="block text-gray-400 hover:text-yellow-400 transition-colors duration-200 hover:translate-x-1 transform cursor-pointer">→ Kebijakan cookie</a>
         </nav>
       </div>
 
       <div className="border-t border-gray-800 pt-8 mt-8">
         <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
-          <p className="text-gray-500 text-sm">© 2025 TodoDin. All rights reserved.</p>
+          <p className="text-gray-500 text-sm">© 2026 TodoDin. Semua hak dilindungi undang-undang.</p>
           <div className="flex space-x-6">
             <a href="#" className="text-gray-400 hover:text-yellow-400 transition-colors duration-200 text-2xl">
               <i className="fa-brands fa-facebook"></i>
